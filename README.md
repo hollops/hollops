@@ -1,46 +1,47 @@
-# 👋 Hi, I'm oladipo bukayomi paul(a.k.a hollops)
+👋 Hi, I'm Oladipo Bukayomi Paul (a.k.a. Hollops)
 
-💻 Aspiring Full-Stack Developer | Software Engineering Student  
+💻 Aspiring Full-Stack Developer | Software Engineering Student
 
-I’m currently building my foundation in full-stack web development.
+I'm passionate about building modern web applications and continuously improving my skills. I have a solid foundation in frontend development and I'm currently expanding my knowledge by learning React.js and backend development.
 
-✅ Comfortable with HTML  
-📘 Learning CSS  
-🧠 Exploring JavaScript and the full-stack ecosystem step by step  
+🚀 Current Focus
 
-## 🚀 My Current Focus
-- Writing clean HTML structure
-- Understanding CSS styling and layouts
-- Strengthening programming fundamentals
-- Learning how frontend and backend connect
+- Building responsive and interactive web applications
+- Learning React.js and modern frontend development
+- Exploring backend technologies and REST APIs
+- Writing clean, maintainable, and scalable code
+- Strengthening problem-solving and software engineering skills
 
-## 🛠 Tools & Technologies (Learning Phase)
+🛠️ Tech Stack
+
+Comfortable With
+
 - HTML5
 - CSS3
-- JavaScript (beginner level)
+- JavaScript (ES6+)
 - Git & GitHub
-- VS Code
+- Responsive Web Design
 
-## 🎯 Goal
-To explore frontend and backend development deeply, discover my niche, and grow into a strong, industry-ready software engineer.
+Currently Learning
+
+- React.js
+- Backend Development
+- API Integration
+- Databases
+- Full-Stack Application Development
+
+📌 About Me
+
+I enjoy turning ideas into functional and user-friendly web applications. Every project I build helps me sharpen my skills and deepen my understanding of modern web development. I'm committed to continuous learning and enjoy taking on new challenges that help me grow as a developer.
+
+🎯 Goals
+
+- Become a proficient Full-Stack Developer
+- Build impactful real-world applications
+- Contribute to open-source projects
+- Collaborate with other developers
+- Keep learning and improving every day
 
 ---
 
-📌 Full-stack developer in progress  
-📈 Learning. Building. Improving every day.
-
-
-<!--
-**hollops/hollops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+«"Code. Learn. Build. Repeat." 🚀»
